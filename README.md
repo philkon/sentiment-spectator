@@ -8,7 +8,7 @@ All XML files need to be placed in the same dictionary.
 Further you have to correctly set paths to files in the respective Jupyter Notebooks.
 ## Sentiment Dictionaries
 The used dictionaries are available at: https://sites.google.com/site/datascienceslab/projects/multilingualsentiment
-These dictionaries were created by Chen and Skiena [1]
+These dictionaries were created and analyzed by Chen and Skiena [1].
 
 # The Code
 Code is available as Jupyter Notebooks. Execute the notebooks in the following order:
